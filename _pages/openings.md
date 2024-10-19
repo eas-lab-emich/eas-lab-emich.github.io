@@ -22,7 +22,7 @@ If you are interested in conducting **embedded systems and AI**-related research
 * know the basics of computer architecture
 
 ### Master projects for EMU students
-If you are a Master's student at EMU and are looking for a thesis or research project topic, please contact Dr. Spantidi.
+If you are a Master's student at EMU and are looking for a thesis or research project topic, please [get in touch with Dr. Spantidi](mailto:ourania.spantidi@emich.edu).
 
 
 
