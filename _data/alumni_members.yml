@@ -1,14 +1,14 @@
 - name: Jorde Stojanov
   # photo: verdoes.jpg
   duration: In the EAS lab during Winter 2024, MS in Computer Science alum (May 2024)
-  # info: Fine mechanical engineer associated with the FMD working in our group
+  info: GPT-driven NPCs in Virtual Environments
   # email: verdoes@fmd.physics.leidenuniv.nl
   number_educ: 1
   education1: MS Computer Science, Eastern Michigan University alum (May 2024)
 
 - name: Jamie Taylor
   # photo: irene.jpg
-  # info: PhD student
+  info: simulating virtual societies using LLMs in Unity
   duration: In the EAS lab during Winter 2024, BS in Computer Science alum (May 2024)
   # email: Battisti@Physics.LeidenUniv.nl
   number_educ: 1
