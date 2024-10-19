@@ -16,5 +16,5 @@ We are a dynamic research group, at the [the Computer Science Department @ Easte
 
 
 <figure class="fourth">
-  <img src="images/logopic/emich_logo.png" style="width: 210px">
+  <img src="gh-pages/images/logopic/emich_logo.png" style="width: 210px">
 </figure>
