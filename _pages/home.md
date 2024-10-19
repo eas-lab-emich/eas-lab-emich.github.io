@@ -13,7 +13,3 @@ We are a dynamic research group, at the [the Computer Science Department @ Easte
  **We are always on the lookout for passionate new students to join our team!** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-
-<figure class="fourth">
-  <img src="{{ '/images/logopic/emich_logo.png' | relative_url }}" alt="Emich Logo" style="width: 210px">
-</figure>
