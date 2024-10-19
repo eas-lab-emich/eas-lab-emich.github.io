@@ -1,48 +1,38 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
-
 - name: Kaitlyn (Katie) Tracy
  # photo: katie.jpg
  # email: ktracy2@emich.edu
- number_educ: 2
- education1: BSc Psychology, Eastern Michigan University
- education2: MS Computer Science, Eastern Michigan University (present)
+  number_educ: 2
+  education1: BSc Psychology, Eastern Michigan University
+  education2: MS Computer Science, Eastern Michigan University (present)
 
- - name: William Dalian
+- name: William Dalian
  # photo: william.jpg
  # email: ktracy2@emich.edu
- number_educ: 2
- education1: BSc Psychology, Eastern Michigan University
- education2: MS Computer Science, Eastern Michigan University (present)
+  number_educ: 2
+  education1: BSc Psychology, Eastern Michigan University
+  education2: MS Computer Science, Eastern Michigan University (present)
 
- - name: Connor S
+- name: Connor S
  # photo: william.jpg
  # email: ktracy2@emich.edu
- number_educ: 2
- education1: BSc Computer Science, Eastern Michigan University
- education2: MS Computer Science, Eastern Michigan University (present)
+  number_educ: 2
+  education1: BSc Computer Science, Eastern Michigan University
+  education2: MS Computer Science, Eastern Michigan University (present)
 
- - name: David Goh
+- name: David Goh
  # photo: william.jpg
  # email: ktracy2@emich.edu
- number_educ: 1
- education1: BSc Computer Science, Eastern Michigan University (present)
+  number_educ: 1
+  education1: BSc Computer Science, Eastern Michigan University (present)
 
- - name: Stela Opingari
+- name: Stela Opingari
  # photo: william.jpg
  # email: ktracy2@emich.edu
- number_educ: 1
- education1: BSc Computer Science, Eastern Michigan University (present)
+  number_educ: 1
+  education1: BSc Computer Science, Eastern Michigan University (present)
  
- - name: Victor Tyler Jr.
+- name: Victor Tyler Jr.
  # photo: william.jpg
  # email: ktracy2@emich.edu
- number_educ: 1
- education1: BSc Computer Science, Eastern Michigan University (present)
+  number_educ: 1
+  education1: BSc Computer Science, Eastern Michigan University (present)
