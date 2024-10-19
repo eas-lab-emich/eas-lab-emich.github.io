@@ -47,8 +47,6 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 
 # Conference articles
@@ -92,8 +90,5 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
