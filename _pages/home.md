@@ -15,5 +15,5 @@ We are a dynamic research group, at the [the Computer Science Department @ Easte
 
 
 <figure class="fourth">
-  <img src="{{ site.baseurl }}/images/logopic/emich_logo.png" alt="Emich Logo" style="width: 210px">
+  <img src="{{ '/images/logopic/emich_logo.png' | relative_url }}" alt="Emich Logo" style="width: 210px">
 </figure>
