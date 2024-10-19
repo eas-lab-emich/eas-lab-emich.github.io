@@ -91,4 +91,3 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-{% endfor %}
