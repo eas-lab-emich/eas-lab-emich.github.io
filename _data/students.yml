@@ -6,7 +6,7 @@
   education2: MS Computer Science, Eastern Michigan University (present)
 
 - name: William Dalian
-  photo: connor.jpg
+  photo: william.jpg
  # email: ktracy2@emich.edu
   number_educ: 2
   education1: BSc Psychology, Eastern Michigan University
@@ -24,6 +24,12 @@
  # email: ktracy2@emich.edu
   number_educ: 1
   education1: BSc Computer Science, Eastern Michigan University (present)
+
+- name: Mohammad Arjamand Ali
+  photo: mohammad.jpg
+ # email: ktracy2@emich.edu
+  number_educ: 1
+  education1: BSc Computer Science and Mathematics, Eastern Michigan University (present)
 
 - name: Stela Opingari
   photo: connor.jpg
