@@ -2,10 +2,8 @@
   # image: ShotNoise.png
   description: This paper introduces a novel framework that extends the capabilities of GPT to control comprehensive NPC behavior within Unity.
   authors: Jorde Stojanov, Lazaros Rafail Kouzelis, Ourania Spantidi
-  link:
-    # url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.076001
-    display: International Symposium on Visual Computing 2025
-  highlight: 1
+  display: International Symposium on Visual Computing 2025
+  highlight: 0
 # - title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
 #   image: ShotNoise.png
 #   description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
