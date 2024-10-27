@@ -1,6 +1,6 @@
 ---
 title: "EAS Lab News"
-layout: textlay
+layout: homelay
 excerpt: "EAS Lab"
 sitemap: false
 permalink: /allnews.html
