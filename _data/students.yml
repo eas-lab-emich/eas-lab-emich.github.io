@@ -5,18 +5,18 @@
   education1: BSc Psychology, Eastern Michigan University
   education2: MS Computer Science, Eastern Michigan University (present)
 
+- name: Welby Seely
+  photo: welby.jpg
+ # email: ktracy2@emich.edu
+  number_educ: 2
+  education1: BSc Computer Engineering, Western Michigan University
+  education2: MS Computer Science, Eastern Michigan University (present)
+  
 - name: William Dalian
   photo: william.jpg
  # email: ktracy2@emich.edu
   number_educ: 2
   education1: BSc Psychology, Eastern Michigan University
-  education2: MS Computer Science, Eastern Michigan University (present)
-
-- name: Welby Seely
-  photo: welby.jpg
- # email: ktracy2@emich.edu
-  number_educ: 2
-  education1: BS Computer Engineering, Western Michigan University
   education2: MS Computer Science, Eastern Michigan University (present)
 
 - name: Connor S
