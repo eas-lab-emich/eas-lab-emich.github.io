@@ -4,6 +4,20 @@
   authors: Jorde Stojanov, Lazaros Rafail Kouzelis, Ourania Spantidi
   display: International Symposium on Visual Computing 2024
   highlight: 0
+
+- title: "Synthesizing play-ready VR scenes with natural language prompts through GPT API"
+  # image: ShotNoise.png
+  description: This work utilizes the GPT API to interpret natural language prompts and generate detailed, VR-ready scenes within Unity3D. 
+  authors: Lazaros Rafail Kouzelis, Ourania Spantidi
+  display: International Symposium on Visual Computing 2023
+  highlight: 0
+
+- title: "Enhancing historical extended reality experiences: Prompt engineering strategies for AI-generated dialogue"
+  # image: ShotNoise.png
+  description: Introducing refined prompt engineering techniques to reduce factual inaccuracies and enhance the emotional resonance of AI-generated dialogues.
+  authors: Lazaros Rafail Kouzelis, Ourania Spantidi
+  display: Applied Sciences 2024
+  highlight: 1
 # - title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
 #   image: ShotNoise.png
 #   description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
