@@ -1,8 +1,16 @@
 - name: Ourania Spantidi
   photo: spantidi.png
-  info: Assistant Professor (since 2023)
+  info: Assistant Professor, Lab Director
   email: ourania.spantidi@emich.edu
   number_educ: 3
   education1: BSc Informatics and Telecommunications, National and Kapodistrian University of Athens, Greece
   education2: MS Computer Science, Southern Illinois University
   education3: Ph.D. Computer Engineering, Southern Illinois University
+
+- name: Kaitlyn (Katie) Tracy
+  photo: katietr.jpg
+  info: Research Associate
+ # email: ktracy2@emich.edu
+  number_educ: 3
+  education1: BSc Psychology, Eastern Michigan University
+  education2: MS Computer Science, Eastern Michigan University
