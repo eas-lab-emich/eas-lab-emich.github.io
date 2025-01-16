@@ -1,10 +1,3 @@
-# - name: Kaitlyn (Katie) Tracy
-#   photo: katietr.jpg
-#  # email: ktracy2@emich.edu
-#   number_educ: 2
-#   education1: BSc Psychology, Eastern Michigan University
-#   education2: MS Computer Science, Eastern Michigan University (present)
-
 - name: Welby Seely
   photo: welby.jpg
  # email: ktracy2@emich.edu
@@ -56,8 +49,4 @@
   number_educ: 1
   education1: BA Computer Science, Eastern Michigan University (present)
 
-- name: Brian Cong
-  photo: brian_headshot.jpg
- # email: ktracy2@emich.edu
-  number_educ: 1
-  education1: BSc Computer Science, Eastern Michigan University (present)
+
