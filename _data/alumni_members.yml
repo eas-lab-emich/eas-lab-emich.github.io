@@ -1,15 +1,14 @@
 - name: Jorde Stojanov
   photo: jorde.jpg
-  duration: In the EAS lab during Winter 2024, MS in Computer Science alum (May 2024)
-  info: GPT-driven NPCs in Virtual Environments
+  # duration: MS in Computer Science May 2024
+  # info: GPT-driven NPCs in Virtual Environments
   # email: verdoes@fmd.physics.leidenuniv.nl
   number_educ: 1
-  education1: MS Computer Science, Eastern Michigan University alum (May 2024)
+  education1: MS Computer Science May 2024
 
-- name: Jamie Taylor
-  photo: jamie.jpg
-  info: simulating virtual societies using LLMs in Unity
-  duration: In the EAS lab during Winter 2024, BS in Computer Science alum (May 2024)
-  # email: Battisti@Physics.LeidenUniv.nl
+- name: Brian Cong
+  photo: brian_headshot.jpg
+  # duration: BS in Computer Science December 2024
+ # email: ktracy2@emich.edu
   number_educ: 1
-  education1: BSc Computer Science, Eastern Michigan University alum (May 2024)
+  education1: BSc Computer Science December 2024
