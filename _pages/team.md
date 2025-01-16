@@ -146,6 +146,7 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
 <!--   <i>{{ member.duration }} <br> Worked on {{ member.info }}</i> -->
+  <i>{{ member.education1 }} </i>
   <ul style="overflow: hidden">
 
   </ul>
