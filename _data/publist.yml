@@ -12,6 +12,13 @@
   display: International Symposium on Visual Computing 2023
   highlight: 0
 
+- title: "Impact of GPT-Driven Teaching Assistants in VR Learning Environments"
+  # image: ShotNoise.png
+  description: Evaluating the impact of a GPT teaching assistant in a VR classroom.
+  authors: Kaitlyn Tracy, Ourania Spantidi
+  display: IEEE Transactions on Learning Technologies 2025
+  highlight: 1
+
 - title: "Enhancing historical extended reality experiences: Prompt engineering strategies for AI-generated dialogue"
   # image: ShotNoise.png
   description: Introducing refined prompt engineering techniques to reduce factual inaccuracies and enhance the emotional resonance of AI-generated dialogues.
