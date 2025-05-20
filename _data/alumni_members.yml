@@ -1,3 +1,9 @@
+- name: Mohammad Arjamand Ali
+  photo: mohammad.jpg
+ # email: ktracy2@emich.edu
+  number_educ: 1
+  education1: BSc Computer Science and Mathematics, April 2025
+
 - name: Jorde Stojanov
   photo: jorde.jpg
   # duration: MS in Computer Science May 2024
@@ -13,10 +19,6 @@
   number_educ: 1
   education1: BSc Computer Science December 2024
 
-- name: Mohammad Arjamand Ali
-  photo: mohammad.jpg
- # email: ktracy2@emich.edu
-  number_educ: 1
-  education1: BSc Computer Science and Mathematics, April 2025
+
 
   
