@@ -4,6 +4,13 @@
   number_educ: 1
   education1: BSc Computer Science and Mathematics, April 2025
 
+- name: Brian Cong
+  photo: brian_headshot.jpg
+  # duration: BS in Computer Science December 2024
+ # email: ktracy2@emich.edu
+  number_educ: 1
+  education1: BSc Computer Science December 2024
+
 - name: Jorde Stojanov
   photo: jorde.jpg
   # duration: MS in Computer Science May 2024
@@ -12,12 +19,7 @@
   number_educ: 1
   education1: MS Computer Science May 2024
 
-- name: Brian Cong
-  photo: brian_headshot.jpg
-  # duration: BS in Computer Science December 2024
- # email: ktracy2@emich.edu
-  number_educ: 1
-  education1: BSc Computer Science December 2024
+
 
 
 
