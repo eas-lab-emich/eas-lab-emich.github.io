@@ -12,6 +12,13 @@
   display: International Symposium on Visual Computing 2023
   highlight: 0
 
+- title: "Planogen: A Procedural Generation Framework for Dynamic VR Research Environments"
+  # image: ShotNoise.png
+  description: Introducing a modular procedural generation plug-in for the Unity game engine, for the rapid generation of varied and interactive aircraft cabin environments populated with diverse virtual passengers.
+  authors: Kaitlyn Tracy, Lazaros Rafail Kouzelis, Rami Dari, Ourania Spantidi
+  display: Virtual Worlds 2025
+  highlight: 1
+
 - title: "Impact of GPT-Driven Teaching Assistants in VR Learning Environments"
   # image: ShotNoise.png
   description: Evaluating the impact of a GPT teaching assistant in a VR classroom.
