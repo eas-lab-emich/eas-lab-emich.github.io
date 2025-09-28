@@ -1,3 +1,10 @@
+- title: "'Are We Going To Crash?': The Effect of an AI Presence in User Experience during a VR Flight"
+  # image: ShotNoise.png
+  description: A pilot study that examines the effect of an AI presence while experiencing turbulence during a VR flight.
+  authors: Kaitlyn Tracy, William Dalian, Rami Dari, Ourania Spantidi
+  display: International Symposium on Visual Computing 2024
+  highlight: 0
+
 - title: "Toward Dynamic NPC Interactions: Integrating GPT-Driven Agents in 3D Virtual Environments"
   # image: ShotNoise.png
   description: This paper introduces a novel framework that extends the capabilities of GPT to control comprehensive NPC behavior within Unity.
