@@ -35,11 +35,30 @@
   education1: BSc Computer Science, Eastern Michigan University
   education2: MS Computer Science, Eastern Michigan University (present)
 
-- name: David Goh
+- name: Andie Bradley
   photo: connor.jpg
  # email: ktracy2@emich.edu
+  number_educ: 2
+  education1: MS Computer Science, Eastern Michigan University (present)
+  # education2: 
+
+- name: Evan Snowgold
+  photo: evan.jpeg
+ # email: ktracy2@emich.edu
   number_educ: 1
-  education1: BSc Computer Science, Eastern Michigan University (present)
+  education1: BS Computer Science, Eastern Michigan University (present)
+
+- name: Mussa Geyre
+  photo: evan.jpeg
+ # email: ktracy2@emich.edu
+  number_educ: 1
+  education1: BS Electrical & Computer Engineering, Eastern Michigan University (present)
+
+# - name: David Goh
+#   photo: connor.jpg
+#  # email: ktracy2@emich.edu
+#   number_educ: 1
+#   education1: BSc Computer Science, Eastern Michigan University (present)
 
 # - name: Mohammad Arjamand Ali
 #   photo: mohammad.jpg
@@ -49,10 +68,6 @@
 
 
  
-- name: Victor Tyler Jr.
-  photo: victyler.jpg
- # email: ktracy2@emich.edu
-  number_educ: 1
-  education1: BA Computer Science, Eastern Michigan University (present)
+
 
 
