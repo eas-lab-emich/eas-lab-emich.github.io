@@ -1,29 +1,29 @@
 - name: Victor Tyler Jr.
-  photo: victyler.jpg
+  # photo: victyler.jpg
  # email: ktracy2@emich.edu
   number_educ: 1
-  education1: BA Computer Science, Eastern Michigan University (2025)
+  education1: BA Computer Science, 2025
 
 - name: Mohammad Arjamand Ali
-  photo: mohammad.jpg
+  # photo: mohammad.jpg
  # email: ktracy2@emich.edu
   number_educ: 1
-  education1: BSc Computer Science and Mathematics, April 2025
+  education1: BSc Computer Science and Mathematics, 2025
 
 - name: Brian Cong
-  photo: brian_headshot.jpg
+  # photo: brian_headshot.jpg
   # duration: BS in Computer Science December 2024
  # email: ktracy2@emich.edu
   number_educ: 1
-  education1: BSc Computer Science December 2024
+  education1: BSc Computer Science, 2024
 
 - name: Jorde Stojanov
-  photo: jorde.jpg
+  # photo: jorde.jpg
   # duration: MS in Computer Science May 2024
   # info: GPT-driven NPCs in Virtual Environments
   # email: verdoes@fmd.physics.leidenuniv.nl
   number_educ: 1
-  education1: MS Computer Science May 2024
+  education1: MS Computer Science, 2024
 
 
 
