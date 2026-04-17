@@ -8,30 +8,43 @@ permalink: /research/
 
 # Research
 
-We are dedicated to advancing knowledge through multidisciplinary approaches, integrating fields such as Human-Computer Interaction (HCI), approximate computing, and embedded systems. Explore our primary research areas below.
+The Embedded AI Systems Lab studies how intelligent systems behave **in the real world** where constraints such as hardware limitations, embodiment, and human interaction fundamentally shape AI performance and perception.
 
-## Human-Computer Interaction (HCI)
+Our work sits at the intersection of **AI systems, Human-Computer Interaction (HCI), Virtual Reality (VR), and embedded computing**, with an emphasis on building, deploying, and evaluating systems beyond idealized settings.
 
-### Impact of Large Language Models in Educational VR Environments
-We evaluate the use of off-the-shelf Large Language Models (LLMs) like GPT to assess their impact on learning outcomes within educational Virtual Reality (VR) settings. Our studies focus on enhancing immersive educational experiences through intelligent, responsive systems.
+---
 
-### Controlling NPCs in Game Environments with LLMs
-This project explores the integration of LLMs to manage Non-Player Characters (NPCs) in gaming environments. By leveraging advanced language models, we aim to create more dynamic and realistic interactions, enhancing player engagement and experience.
+## AI + Human Experience (HCI & VR)
 
-### Collaboration with the Psychology Department: Exposure Therapy in VR with Integrated AI Agents
-In partnership with the Psychology Department, we are developing VR-based exposure therapy programs augmented with AI-driven agents. This interdisciplinary project seeks to improve therapeutic outcomes by providing adaptive and personalized treatment environments.
+### AI Agents in Immersive Environments
+We investigate how AI-driven agents such as LLM-based companions influence user experience in virtual environments. Our work explores questions of trust, engagement, perceived safety, and meaning-making, particularly in multi-phase and dynamic scenarios such as VR simulations.
 
-## Approximate Computing and Embedded Devices
+### AI for Training and Education in VR
+We develop VR-based educational systems augmented with AI assistants, mostly focusing on educational domains. These systems aim to make complex concepts more accessible through interactive, adaptive instruction.
 
-### Post-Training Evaluation of LLMs and Neural Networks on Embedded Devices
-We investigate the deployment of Large Language Models and neural networks on embedded systems using approximate computing techniques. This research aims to optimize performance and energy efficiency without compromising model accuracy, enabling advanced AI capabilities in resource-constrained environments.
+### AI in Therapeutic and Behavioral Contexts
+In collaboration with the Psychology Department, we design and evaluate VR exposure therapy environments enhanced with AI agents, studying how adaptive AI influences emotional response and therapeutic outcomes.
 
-### Fairness Evaluation in Medical Datasets
-Our work in this area focuses on assessing the fairness of AI models applied to medical datasets, such as dermatology images. We examine model performance across diverse demographic groups to ensure equitable healthcare outcomes and mitigate biases in AI-driven medical diagnostics.
+---
 
+## Embedded and Resource-Constrained AI
+
+### Efficient AI on Edge and Embedded Systems
+We study how to deploy modern AI models under strict resource constraints (latency, energy, memory). Our work includes techniques such as quantization, pruning, and system-level optimization for real-world embedded platforms.
+
+### Hardware-Aware AI and Approximation
+We explore how approximation at the hardware and model level affects not only performance and efficiency, but also downstream behavior—raising new questions about robustness, fairness, and user perception.
+
+---
+
+## Cross-Cutting Themes
+
+Across all projects, we are particularly interested in:
+
+- How **constraints (hardware, environment, embodiment)** shape AI behavior  
+- How humans **perceive, trust, and interact with AI systems**  
+- Bridging the gap between **theoretical AI performance and real-world deployment**  
 
 ---
 
 For more information about our projects or to get involved, please [contact Dr. Spantidi](mailto:ourania.spantidi@emich.edu).
-
-
