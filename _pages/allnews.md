@@ -1,7 +1,7 @@
 ---
-title: "EAS Lab News"
+title: "EAIS Lab News"
 layout: textlay
-excerpt: "EAS Lab"
+excerpt: "EAIS Lab"
 sitemap: false
 permalink: /allnews.html
 ---
