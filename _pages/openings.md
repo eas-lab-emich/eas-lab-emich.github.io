@@ -1,5 +1,5 @@
 ---
-title: "EAS Lab - Vacancies"
+title: "EAIS Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
