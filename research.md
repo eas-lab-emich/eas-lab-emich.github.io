@@ -33,7 +33,7 @@ In collaboration with the Psychology Department, we design and evaluate VR expos
 We study how to deploy modern AI models under strict resource constraints (latency, energy, memory). Our work includes techniques such as quantization, pruning, and system-level optimization for real-world embedded platforms.
 
 ### Hardware-Aware AI and Approximation
-We explore how approximation at the hardware and model level affects not only performance and efficiency, but also downstream behavior—raising new questions about robustness, fairness, and user perception.
+We explore how approximation at the hardware and model level affects not only performance and efficiency, but also downstream behavior, raising new questions about robustness, fairness, and user perception.
 
 ---
 
