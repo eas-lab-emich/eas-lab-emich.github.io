@@ -1,7 +1,7 @@
 ---
-title: "EAS Lab - Research"
+title: "EAIS Lab - Research"
 layout: textlay
-excerpt: "EAS Lab -- Research"
+excerpt: "EAIS Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
