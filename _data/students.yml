@@ -12,6 +12,11 @@
   education1: BSc Computer Science, Eastern Michigan University  
   education2: MS Computer Science, Eastern Michigan University (present)
 
+- name: Evan Snowgold
+  photo: evan.jpeg
+ # email: ktracy2@emich.edu
+  number_educ: 1
+  education1: MS Computer Science, Eastern Michigan University (present)
 
 - name: Rami Dari
   photo: rami.jpg
@@ -35,17 +40,12 @@
   education1: BSc Computer Science, Eastern Michigan University
   education2: MS Computer Science, Eastern Michigan University (present)
 
-- name: Evan Snowgold
-  photo: evan.jpeg
- # email: ktracy2@emich.edu
-  number_educ: 1
-  education1: BS Computer Science, Eastern Michigan University (present)
 
-- name: Mussa Geyre
-  photo: mussa.png
- # email: ktracy2@emich.edu
-  number_educ: 1
-  education1: BS Electrical & Computer Engineering, Eastern Michigan University (present)
+# - name: Mussa Geyre
+#   photo: mussa.png
+#  # email: ktracy2@emich.edu
+#   number_educ: 1
+#   education1: BS Electrical & Computer Engineering, Eastern Michigan University (present)
 
 # - name: David Goh
 #   photo: connor.jpg
