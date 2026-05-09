@@ -91,3 +91,20 @@ firstp {
     margin-right: 30px;
 }
 
+/* Footer logo */
+.footer-logo {
+  text-align: right;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.footer-logo img {
+  width: 220px;
+  max-width: 100%;
+  height: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  border-radius: 0;
+  box-shadow: none;
+}
