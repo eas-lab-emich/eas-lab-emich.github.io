@@ -1,3 +1,10 @@
+- title: "Detecting Gray Failures in Edge Networks with Lightweight Unsupervised Learning"
+  # image: ShotNoise.png
+  description: This paper presents a lightweight unsupervised learning system that detects gray failures in heterogeneous edge networks and triggers proactive failover, reducing HTTP latency by up to 72% in controlled experiments.
+  authors: William Britton, Ourania Spantidi
+  display: International Conference on Machine Learning and Applications 2026
+  highlight: 0
+
 - title: "'Are We Going To Crash?': The Effect of an AI Presence in User Experience during a VR Flight"
   # image: ShotNoise.png
   description: A pilot study that examines the effect of an AI presence while experiencing turbulence during a VR flight.
