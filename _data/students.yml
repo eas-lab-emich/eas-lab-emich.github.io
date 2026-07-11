@@ -26,6 +26,13 @@
   education1: BSc Computer Science, Eastern Michigan University 
   education2: MS Computer Science, Eastern Michigan University (present)
 
+- name: Nathan Berman
+  photo: nate.jpg
+ # email: ktracy2@emich.edu
+  number_educ: 2
+  education1: BSc Computer Science, Central Michigan University
+  education2: MS Computer Science, Eastern Michigan University (present)
+
   
 - name: William Dalian
   photo: william.jpg
