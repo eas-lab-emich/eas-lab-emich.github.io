@@ -87,7 +87,11 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" /> -->
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}"
+     class="img-responsive"
+     alt="{{ member.name }}"
+     style="float: left; width: 25%; aspect-ratio: 1 / 1; object-fit: cover; object-position: center;" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
