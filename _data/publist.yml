@@ -1,3 +1,10 @@
+- title: "Backbone Choice Matters: Human and Perceptual Evaluation of CNN-Based Neural Style Transfer"
+  # image: ShotNoise.png
+  description: This paper investigates how the choice of CNN backbone affects neural style transfer, finding that stronger backbones generally produce images preferred by users, while standard image-quality metrics do not fully capture perceived artistic quality or style similarity.
+  authors: Andie Bradley, Ourania Spantidi
+  display: International Conference on Machine Learning and Applications 2026
+  highlight: 0
+
 - title: "Detecting Gray Failures in Edge Networks with Lightweight Unsupervised Learning"
   # image: ShotNoise.png
   description: This paper presents a lightweight unsupervised learning system that detects gray failures in heterogeneous edge networks and triggers proactive failover, reducing HTTP latency by up to 72% in controlled experiments.
