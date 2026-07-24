@@ -24,6 +24,6 @@ If you are interested in conducting **embedded systems and AI**-related research
 ### Master projects for EMU students
 If you are a Master's student at EMU and are looking for a thesis or research project topic, please [get in touch with Dr. Spantidi](mailto:ourania.spantidi@emich.edu).
 
-
-
+### Before emailing about a Ph.D.
+Please don't. We do not offer a Ph.D. program. An email asking to join the lab as a Ph.D. student is therefore a pretty reliable sign that you have not actually looked at our program before hitting send. These inquiries, including generic or AI-generated mass emails, will be ignored.
 
